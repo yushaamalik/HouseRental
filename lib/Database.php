@@ -5,8 +5,8 @@
   class Database
   {
     private $hostdb = 'localhost';
-    private $userdb = 'root';
-    private $passdb = '';
+    private $userdb = 'username';
+    private $passdb = 'password';
     private $namedb = 'houserent';
     public $link;
 
